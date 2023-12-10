@@ -44,5 +44,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Special thanks to [Dataset Source] for providing the valuable dataset used in this project.
+- Special thanks to kaggle for providing the valuable dataset used in this project.
 - Inspiration drawn from various open-source projects and machine learning resources.
